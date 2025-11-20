@@ -11,9 +11,9 @@ External References
 ------------
 
 * For more details about DCAT: `link <https://www.w3.org/TR/vocab-dcat-2/>`_
-* For information about the EJP-RD metadata schema: `link <https://github.com/ejp-rd-vp/resource-metadata-schema>`_
-* For instructions about each EJP-RD metadata class and properties and excel template to gather all metadata information about your resource: `link <https://github.com/ejp-rd-vp/resource-metadata-schema/blob/master/template/README.md>`_
+* For information about the ERDERA metadata schema: `link <https://github.com/ejp-rd-vp/resource-metadata-schema>`_
+* For instructions about each ERDERA metadata class and properties and excel template to gather all metadata information about your resource: `link <https://github.com/ejp-rd-vp/resource-metadata-schema/blob/master/template/README.md>`_
 * For more details about the FAIR-in-a-box solution: `link <https://github.com/ejp-rd-vp/FiaB>`_
 * For more details about the FAIR data Point reference implementation: `link <https://specs.fairdatapoint.org/>`_ 
-* For a step-by-step instruction document about configuration of your FAIR Data Point, to comply with EJP-RD requirements of the Virtual platform: `link <https://github.com/ejp-rd-vp/FDP-Configuration>`_ 
+* For a step-by-step instruction document about configuration of your FAIR Data Point, to comply with ERDERA requirements of the Virtual platform: `link <https://github.com/ejp-rd-vp/FDP-Configuration>`_ 
 * To share feedback on issues faced with the Virtual Platform: `link <https://github.com/ejp-rd-vp/vp-portal-issues/issues>`_

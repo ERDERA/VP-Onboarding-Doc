@@ -7,4 +7,4 @@ A Level 2 connection using MOLGENIS EMX2 (the latest version of the MOLGENIS dat
 
 * Contact MOLGENIS team [`email <mailto:molgenis-support@umcg.nl>`_] to outsource your installation, hosting and backups.
 
-* Once installed and hosted, use the ‘FAIR_DATA_HUB’ template when setting up a new database schema. This template immediately enables Level 2 APIs including FAIR Data Point, EJP RD Beacon v2, and RDF. Contact the EJP RD onboarding team for further onboarding steps.
+* Once installed and hosted, use the ‘FAIR_DATA_HUB’ template when setting up a new database schema. This template immediately enables Level 2 APIs including FAIR Data Point, ERDERA Beacon v2, and RDF. Contact the ERDERA onboarding team for further onboarding steps.

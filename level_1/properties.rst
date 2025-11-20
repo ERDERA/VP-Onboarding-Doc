@@ -1,4 +1,4 @@
-EJP RD Metadata Schema Properties
+ERDERA Metadata Schema Properties
 ------------
 
 .. toctree::

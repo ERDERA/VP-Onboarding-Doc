@@ -1,11 +1,11 @@
-EJP RD Metadata Schema 
+ERDERA Metadata Schema 
 ===================================
 
-Figure 5 describes the EJP RD VP metadata schema using the UML language. We describe the model and 
+Figure 5 describes the ERDERA VP metadata schema using the UML language. We describe the model and 
 its components in the next subsection. Readers can get more information here on the `UML syntax <https://www.omg.org/spec/UML/>`_.
 
 
-.. Reading the EJP RD Metadata Schema with UML
+.. Reading the ERDERA Metadata Schema with UML
 .. ------------
 
 The model is composed of classes, depicted as rectangles, which are interconnected by two types of lines. The lines with a closed arrow shape at the end represent the inheritance relationship, indicating that Class B extends Class A (arrow from B to A). This implies that B is a specialized version of A, with additional properties. On the other hand, lines with an open arrow shape at the end represent an access relationship, signifying that class A contains a property that points to class B (arrow from A to B). Representations of classes with real-world information are called instances. 
