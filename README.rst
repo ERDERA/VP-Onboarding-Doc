@@ -6,4 +6,4 @@ Link: https://erdera-vp-onboarding.readthedocs.io/en/latest/
 
 
 
-https://vp-onboarding-doc.readthedocs.io/en/latest/
+(Former link - outdated: https://vp-onboarding-doc.readthedocs.io/en/latest/)
