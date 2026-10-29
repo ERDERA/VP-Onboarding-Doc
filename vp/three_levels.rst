@@ -35,7 +35,7 @@ Three Levels of Connectivity
 	  - Resource discoverability via controlled querying of catalogue summary info and/or safe record data
 	  - ERDERA Beacon v2 /catalogs and/or /individuals API endpoint
 	  - Open or authenticated user access, as per preference
-	  - ‎ ‎ 
+	  - ‎Discovering resources based on what they contain, rather than only on how they describe themselves. For instance: Which catalogues include resources associated with a certain rare disease (by ORPHAcode)? Which registries hold patients with a certain disease within a given age range? Is a certain phenotype (by HPO code) observed in any registry or biobank in my country?
 	* - **Level 2 – Querying at the catalog level**
 	  - Involves answering queries based on the summary metadata about the catalog.
 	  - ERDERA Beacon2 v2/catalogs API endpoint
