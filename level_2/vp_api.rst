@@ -3,7 +3,7 @@ How to onboard to Level 2 using the VP-API Specification
 
 Setting up Level 2 involves seamlessly integrating resources with the ERDERA VP API Specification. This is facilitated by installing any one of a suite of optional tools. Specifically, we offer five solutions for Level 2 onboarding, which are described in the following sections. Figure 7 depicts the steps of the Level 2 onboarding process.
 
-..  figure:: _images/f7.png
+..  figure:: _images/vp_api.png
     :alt:  Level 2 onboarding process overview
     :width: 100%
 
