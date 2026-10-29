@@ -45,10 +45,10 @@ Level 2 onboarding solutions
      - Yes
      - No
      - No
-   * - `FAIR-in-a-Box <https://vp-onboarding-doc.readthedocs.io/en/latest/level_2/solutions/fiab.html>`_
-     - FAIR-in-a-Box  software enables the setup of a local Fair Data Point that holds your data in an accessible triple-store, with ERDERA Beacon v2 services. 
-     - Supports ERDERA Beacon v2 queries for both the /catalogs & /individuals endpoints; Dockerized installation. 
-     - FAIR-in-a-box is free to use; individual components have distinct licenses selected by their (third-party) authors.
+   * - `Sextans Suite <https://github.com/wilkinsonlab/Sextans-Suite>`_
+     - Sextans Suite (successor to FAIR-in-a-Box) software enables the setup of a local Fair Data Point that holds your data in an accessible triple-store, with ERDERA Beacon v2 services. 
+     - Supports ERDERA Beacon v2 queries for the /individuals endpoint; no /catalogs endpoint. FAIR Data Point (Level 1); CARE-SM-2 CSV-to-RDF transformation, including custom datatypes; Dockerized installation; containers run as non-root, with regular security scanning and patching.
+     - Sextans Suite is free to use; individual components have distinct licenses selected by their (third-party) authors.
      - Yes
      - Yes
      - Yes
