@@ -5,7 +5,7 @@ Setting up Level 2 involves seamlessly integrating resources with the ERDERA VP 
 
 ..  figure:: _images/vp_api.png
     :alt:  Level 2 onboarding process overview
-    :width: 100%
+
 
     Figure 7 – Level 2 onboarding process overview
 
