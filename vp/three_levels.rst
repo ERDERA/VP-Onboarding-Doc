@@ -31,21 +31,21 @@ Three Levels of Connectivity
 	  - Technology Requirements
 	  - Access Condition Options
 	  - Usage Scenarios
-	* - **At this level, content can be queried based on specific characteristics such as disease IDs, ages, phenotypes and so on, responding with yes/no or approximate record count information. The goal of level 2 is still the discovery -and not the use- of the data. The questions are answered against summary metadata and safe content of each catalogue.**
+	* - **At this level, content can be queried based on specific characteristics such as disease IDs, ages, phenotypes and so on, responding with yes/no or approximate record count information. The goal of level 2 is still the discovery -and not the use- of the data. The questions are answered against summary metadata and safe content of each resource.**
 	  - Resource discoverability via controlled querying of catalogue summary info and/or safe record data
-	  - ERDERA Beacon2 v2/individual's API endpoint
+	  - ERDERA Beacon v2 /catalogs and/or /individuals API endpoint
 	  - Open or authenticated user access, as per preference
 	  - ‎ ‎ 
-	* - **Level 2 – Querying at the catalogue level**
-	  - Involves answering queries based on the the summary metadata about the catalog.
-	  - ERDERA Beacon2 v2/individual's API endpoint
+	* - **Level 2 – Querying at the catalog level**
+	  - Involves answering queries based on the summary metadata about the catalog.
+	  - ERDERA Beacon2 v2/catalogs API endpoint
 	  - Open user access
 	  - Is the catalogue associated with the Marfan syndrome [ordo:Orphanet_558]?
 	* - **Level 2 - Privacy-preserving queries at record level**
 	  - Entails answering queries based on individual patient records within the catalog.
-	  - ERDERA Beacon2 v2/individual's API endpoint
+	  - ERDERA Beacon2 v2/individuals API endpoint
 	  - Open or authenticated user access, as per preference
-	  - Discovery of catalogs based on the existence of a cohort of patients of interest (patients that match query parameters such as disease codes, ages and so on) in sufficient numbers. For instance: Find catalogs based upon how many patients have Autosomal recessive polycystic kidney disease and had symptom onset before 8 years old.  Is there an appropriate registry in my country to which collected information about certain patients should be donated?  Within a certain registry, how many patients match less than 10 years old Duchene muscular dystrophy with gastrointestinal disorders? 
+	  - Discovery of catalogs based on the existence of a cohort of patients of interest (patients that match query parameters such as disease codes, ages and so on) in sufficient numbers. For instance: Find catalogs based upon how many patients have Autosomal recessive polycystic kidney disease and had symptom onset before 8 years old.  Is there an appropriate registry in my country to which collected information about certain patients should be donated?  Within a certain registry, how many patients match less than 10 years old Duchenne muscular dystrophy with gastrointestinal disorders? 
 
 
 | `Level 3 - Data analysis <https://vp-onboarding-doc.readthedocs.io/en/latest/level_2/index.html>`_
