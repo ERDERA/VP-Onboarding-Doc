@@ -16,13 +16,13 @@ Steps to use the Level 1 validation test:
 2. In the test's interface, enter your resource identifier/GUID (record URL) and run the test. More detailed information can be found in the description of the test, and if clicking the "Additional details" entry.
 3. Read the result at the top of the response (pass/fail). In case of fail, the log explains which requirements are not met, as shown in the figure below.
 
-..  figure:: _images/L1_fail.jpeg
+..  figure:: _images/L1_fail.png
     :alt:  Resulting screen of the validator, in case of failure.
     :width: 100%
 
 4. Based on the test feedback, you can either fix the information yourself or contact the onboarding team for support. Once all fixes are made, run the test again to confirm it passes.
 
-..  figure:: _images/L1_pass.jpeg
+..  figure:: _images/L1_pass.png
     :alt:  Resulting screen of the validator, in case of failure.
     :width: 100%
 
